@@ -1,0 +1,15 @@
+name: GhostSystemv2
+version: '${project.version}'
+main: de.ghostsystem.ghostsystemv2.Main
+api-version: '1.19'
+
+commands:
+  gm0:
+  gm1:
+  gm3:
+  tc:
+  ec:
+  report:
+  adminitems:
+  support:
+  clearchat:
