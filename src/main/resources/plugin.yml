@@ -13,3 +13,6 @@ commands:
   adminitems:
   support:
   clearchat:
+  kopf:
+  ping:
+  msg:
